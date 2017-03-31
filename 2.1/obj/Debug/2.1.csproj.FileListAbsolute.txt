@@ -1,0 +1,6 @@
+Z:\GoogleDrive\KBU\w10\2.1\2.1\bin\Debug\2.1.exe.config
+Z:\GoogleDrive\KBU\w10\2.1\2.1\bin\Debug\2.1.exe
+Z:\GoogleDrive\KBU\w10\2.1\2.1\bin\Debug\2.1.pdb
+Z:\GoogleDrive\KBU\w10\2.1\2.1\obj\Debug\2.1.csprojResolveAssemblyReference.cache
+Z:\GoogleDrive\KBU\w10\2.1\2.1\obj\Debug\2.1.exe
+Z:\GoogleDrive\KBU\w10\2.1\2.1\obj\Debug\2.1.pdb
